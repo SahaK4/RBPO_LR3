@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\liza\\source\\repos\\rbpo3\\rbpo3\\task2.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "BPZ1901.Kazina.Lab3.Task2"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
